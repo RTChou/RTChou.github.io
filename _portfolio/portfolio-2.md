@@ -1,6 +1,6 @@
 ---
 title: "Malaria vaccine antigen identification (<i>P. falciparum</i>)"
-excerpt: "<b>ML technique:</b> positive-unlabeled learning<br/><img src='/images/500x300.png'>"
+excerpt: "<b>ML technique:</b> positive-unlabeled learning<br/><br/><img src='/images/500x300.png'><br/><i>Journal (2023)</i>"
 collection: portfolio
 ---
 
