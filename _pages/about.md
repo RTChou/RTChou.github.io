@@ -8,28 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Section 1
-======
-
-Subsection 1
-------
-
-Subsection 2
-------
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
+I am a Computational Biology Ph.D. student with five years of experience in machine learning and statistical data analysis. My dissertation research focuses on multifunctional peptide engineering, malaria vaccine antigen identification, and interpretable machine learning. I am specifically passionate about developing ML/AI-based analytical methodologies to improve the quality of life, and have been collaborating with scientists at UMD School of Medicine and Johns Hopkins School of Medicine.

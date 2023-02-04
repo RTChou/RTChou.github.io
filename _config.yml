@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Renee Ti Chou"
   avatar           : "profile.png"
-  bio              : "Computational Biology PhD Candidate | Machine Learning | Data Science | Biomedical Research"
+  bio              : "Computational Biology PhD Candidate | Machine Learning | Data Science | Statistical Data Analysis"
   location         : "College Park, MD"
   employer         :
   pubmed           : 
@@ -234,8 +234,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
