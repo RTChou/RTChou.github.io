@@ -20,7 +20,7 @@
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
     background-color: #fff;
-    height: calc(var(masthead-height) - 1px);
+    height: 81px;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
