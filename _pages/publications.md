@@ -13,7 +13,7 @@ Y. C. Kim, H. T. Hsueh, M. D. Shin, C. A. Berlinicke, H. Han, N. M. Anders, A. H
 [<a href="{{base.url}}/files/Kim_2022.pdf" target="_blank">PDF</a>] 
 [<a href="{{base.url}}/files/Kim_2022.bib" target="_blank">BibTeX</a>] 
 [<a href="https://pubmed.ncbi.nlm.nih.gov/33900546/" target="_blank">PubMed</a>] 
-[<a href="https://rtchou.github.io/multifunctional-peptide-engineering/" target="_blank">Research Notebook</a>] 
+<!-- [<a href="https://rtchou.github.io/multifunctional-peptide-engineering/" target="_blank">Research Notebook</a>]  -->
 
 1. *Ion-complex microcrystal formulation provides sustained delivery of a multimodal kinase inhibitor from the subconjunctival space for protection of retinal ganglion cells.* <br/>
 H. T. Hsueh, Y.-C. Kim, I. Pitha, M. D. Shin, C. A. Berlinicke, **R. T. Chou**, E. Kimball, J. Schaub, S. Quillen, K. T. Leo, H. Han, A. Xiao, Y. Kim, M. Appell, U. Rai, H. Kwon, P. Kolodziejski, L. Ogunnaike, N. M. Anders, A. Hemingway, J. L. Jefferys, A. A. Date, C. Eberhart, T. V. Johnson, H. A. Quigley, D. J. Zack, J. Hanes, L. M. Ensign <br/>
