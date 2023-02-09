@@ -18,7 +18,6 @@ Research projects
 
 {% include base_path %}
 
-
 {% for post in site.portfolio %}
   {% include archive-single.html %}
   <hr class="solid">
