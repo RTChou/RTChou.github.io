@@ -14,6 +14,7 @@ H. T. Hsueh<sup>$\*$</sup>, **R. T. Chou**<sup>$\*$</sup> (co-first author), U. 
 [<a href="{{base.url}}/files/Hsueh_Chou_2023_1.bib" target="_blank">BibTeX</a>] 
 <!-- [<a href="https://pubmed.ncbi.nlm.nih.gov/33900546/" target="_blank">PubMed</a>] -->
 [<a href="https://rtchou.github.io/multifunctional-peptide-engineering/" target="_blank">Research Notebook</a>]
+[<a href="https://www.umiacs.umd.edu/about-us/news/umd-researchers-partner-wilmer-eye-institute-enhance-sustained-delivery-ocular-drugs" target="_blank">UMIACS News</a>]
 
 1. *A hypotonic gel-forming eye drop provides enhanced intraocular delivery of a kinase inhibitor with melanin-binding properties for sustained protection of retinal ganglion cells.* <br/>
 Y. C. Kim, H. T. Hsueh, M. D. Shin, C. A. Berlinicke, H. Han, N. M. Anders, A. Hemingway, K. T. Leo, **R. T. Chou**, H. Kwon, M. B. Appell, U. Rai, P. Kolodziejski, C. Eberhart, I. Pitha, D. J. Zack, J. Hanes, L. M. Ensign <br/>
