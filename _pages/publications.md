@@ -12,7 +12,7 @@ H. T. Hsueh<sup>$\*$</sup>, **R. T. Chou**<sup>$\*$</sup> (co-first author), U. 
 *<a href="https://doi.org/10.1038/s41467-023-38056-w" target="_blank">Nature Communications (2023)</a>.*
 [<a href="{{base.url}}/files/Hsueh_Chou_2023_1.pdf" target="_blank">PDF</a>] 
 [<a href="{{base.url}}/files/Hsueh_Chou_2023_1.bib" target="_blank">BibTeX</a>] 
-<!-- [<a href="https://pubmed.ncbi.nlm.nih.gov/33900546/" target="_blank">PubMed</a>] -->
+[<a href="https://pubmed.ncbi.nlm.nih.gov/37130851/" target="_blank">PubMed</a>]
 [<a href="https://rtchou.github.io/multifunctional-peptide-engineering/" target="_blank">Research Notebook</a>]
 [<a href="https://www.umiacs.umd.edu/about-us/news/umd-researchers-partner-wilmer-eye-institute-enhance-sustained-delivery-ocular-drugs" target="_blank">UMIACS News</a>]
 
