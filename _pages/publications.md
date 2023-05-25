@@ -7,6 +7,13 @@ author_profile: true
 
 You can also find a list of my published work on <a href="https://scholar.google.com/citations?hl=en&user=1Zl_n9MAAAAJ" target="_blank">Google Scholar</a>.
 
+1. *Using machine learning to understand the relationships between audiometric data, speech perception, temporal processing, and cognition.* <br/>
+R. M. Khalil, A. Papanicolaou, **R. T. Chou**, B. E. Gibbs, S. Anderson, S. Gordon-Salant, M. P. Cummings, M. J. Goupell <br/>
+*<a href="https://doi.org/10.1109/ICASSP49357.2023.10095325" target="_blank">2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2023)</a>.*
+[<a href="{{base.url}}/files/Khalil_2023.pdf" target="_blank">PDF</a>] 
+[<a href="{{base.url}}/files/Khalil_2023.bib" target="_blank">BibTeX</a>] 
+<!-- [<a href="https://pubmed.ncbi.nlm.nih.gov/37130851/" target="_blank">PubMed</a>] -->
+
 1. *Machine learning-driven multifunctional peptide engineering for sustained ocular drug delivery.* <br/>
 H. T. Hsueh<sup>$\*$</sup>, **R. T. Chou**<sup>$\*$</sup> (co-first author), U. Rai, W. Liyanage, Y. C. Kim, M. B. Appell, J. Pejavar, K. T. Leo, C. Davison, P. Kolodziejski, A. Mozzer, H. Kwon, M. Sista, N. M. Anders, A. Hemingway, S. V. K. Rompicharla, M. Edwards, I. Pitha, J. Hanes, M. P. Cummings, L. M. Ensign <br/>
 *<a href="https://doi.org/10.1038/s41467-023-38056-w" target="_blank">Nature Communications (2023)</a>.*
@@ -15,6 +22,7 @@ H. T. Hsueh<sup>$\*$</sup>, **R. T. Chou**<sup>$\*$</sup> (co-first author), U. 
 [<a href="https://pubmed.ncbi.nlm.nih.gov/37130851/" target="_blank">PubMed</a>]
 [<a href="https://rtchou.github.io/multifunctional-peptide-engineering/" target="_blank">Research Notebook</a>]
 [<a href="https://www.umiacs.umd.edu/about-us/news/umd-researchers-partner-wilmer-eye-institute-enhance-sustained-delivery-ocular-drugs" target="_blank">UMIACS News</a>]
+[<a href="https://www.hopkinsmedicine.org/news/newsroom/news-releases/ai-used-to-advance-drug-delivery-system-for-glaucoma-and-other-chronic-diseases" target="_blank">Hopkins Medicine News</a>]
 
 1. *A hypotonic gel-forming eye drop provides enhanced intraocular delivery of a kinase inhibitor with melanin-binding properties for sustained protection of retinal ganglion cells.* <br/>
 Y. C. Kim, H. T. Hsueh, M. D. Shin, C. A. Berlinicke, H. Han, N. M. Anders, A. Hemingway, K. T. Leo, **R. T. Chou**, H. Kwon, M. B. Appell, U. Rai, P. Kolodziejski, C. Eberhart, I. Pitha, D. J. Zack, J. Hanes, L. M. Ensign <br/>
