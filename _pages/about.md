@@ -11,9 +11,9 @@ redirect_from:
 About me
 ======
 
-I am a Computational Biology Ph.D. candidate with over 6 years of experience in machine learning, data science, and statistical data analysis. My research is focused on addressing a broad spectrum of biological problems, including multifunctional peptide engineering for drug delivery, malaria vaccine antigen candidate identification, and the application of interpretable machine learning in biomedical research.
+I am a Computational Biology Ph.D. candidate with over 6 years of experience in machine learning, data science, and statistical data analysis. My technical skills have enabled me to solve a wide array of biological problems, including multifunctional peptide engineering for drug delivery, malaria vaccine antigen candidate identification, and applying interpretable machine learning to understand the results.
 
-My passion lies in developing cutting-edge AI and machine learning solutions to improve the quality of life in various fields. I constantly stay up-to-date with the latest technology advancements, including cloud computing and parallel processing for large-scale data analysis. I place a strong emphasis on model interpretability in my work, ensuring that the results of my research are transparent and understandable.
+I consistently keep myself updated with the latest technology advancements, including cloud computing and parallel processing for large-scale data analysis. Furthermore, I strongly emphasize model interpretability in my work, ensuring that the results of my research are transparent and understandable. I am committed to developing cutting-edge AI and machine learning solutions to improve the quality of human life in various fields.
 
 Research projects
 ======
