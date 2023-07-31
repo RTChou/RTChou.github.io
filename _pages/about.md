@@ -28,5 +28,5 @@ Research projects
 Fun facts
 ======
 
-<p class="archive__item-excerpt" itemprop="description"><img src='/images/fun_facts.png'></p>
+<p class="archive__item-excerpt" itemprop="description"><img src='/images/fun_facts.jpg'></p>
 
