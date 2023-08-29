@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-Data Scientist and Ph.D. Candidate with over 6 years of proficiency in machine learning, data science, and statistical analysis. Extensive experience in collaborating and communicating with experts from interdisciplinary fields. Passionate about crafting innovative AI and ML solutions, staying up-to-date with technology advancements, and emphasizing model interpretability for transparent and explainable results.
+Data Scientist and Ph.D. Candidate with over 6 years of proficiency in machine learning, data science, and statistical analysis. Extensive experience in collaborating and communicating with experts from interdisciplinary fields. Passionate about crafting innovative AI and ML solutions, staying up-to-date with technology advancements such as generative AI, and emphasizing model interpretability for explainable results.
 
 Research projects
 ======
