@@ -5,7 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find a list of my published work on <a href="https://scholar.google.com/citations?hl=en&user=1Zl_n9MAAAAJ" target="_blank">Google Scholar</a>.
+You can also find a list of my published work on <a href="https://scholar.google.com/citations?hl=en&user=1Zl_n9MAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>.
+
+1. *Engineered peptide-drug conjugate provides sustained protection of retinal ganglion cells with topical administration in rats.* <br/>
+H. T. Hsueh<sup>$\*$</sup>, **R. T. Chou**<sup>$\*$</sup> (co-first author), U. Rai, P. Kolodziejski, W. Liyanage, J. Pejavar, A. Mozzer, C. Davison, M. B. Appell, Y. C. Kim, K. T. Leo, H. Kwon, M. Sista, N. M. Anders, A. Hemingway, S. V. K. Rompicharla, I. Pitha, D. J. Zack, J. Hanes, M. P. Cummings, L. M. Ensign <br/>
+*<a href="https://doi.org/10.1016/j.jconrel.2023.08.058" target="_blank">Journal of Controlled Release (2023)</a>.*
+[<a href="{{base.url}}/files/Hsueh_Chou_2023_2.pdf" target="_blank">PDF</a>] 
+[<a href="{{base.url}}/files/Hsueh_Chou_2023_2.bib" target="_blank">BibTeX</a>] 
+[<a href="https://pubmed.ncbi.nlm.nih.gov/37657693/" target="_blank">PubMed</a>]
 
 1. *Using machine learning to understand the relationships between audiometric data, speech perception, temporal processing, and cognition.* <br/>
 R. M. Khalil, A. Papanicolaou, **R. T. Chou**, B. E. Gibbs, S. Anderson, S. Gordon-Salant, M. P. Cummings, M. J. Goupell <br/>
