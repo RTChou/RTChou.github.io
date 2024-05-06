@@ -18,13 +18,20 @@ Publications
 
 You can also find a list of my published work on <a href="https://scholar.google.com/citations?hl=en&user=1Zl_n9MAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>.
 
-1. *Machine learning-driven multifunctional peptide engineering for sustained ocular drug delivery.* <br/>
+1. *Positive-unlabeled learning identifies vaccine candidate antigens in the malaria parasite Plasmodium falciparum.* <br/>
 **R. T. Chou**, A. Ouattara, M. Adams, A. A. Berry, S. Takala-Harrison, M. P. Cummings <br/>
-*<a style="color: black;">npj Systems Biology and Applications (2024)</a>.*
-[<a style="color: black;">PDF</a>] 
-[<a style="color: black;">BibTeX</a>] 
-[<a style="color: black;">PubMed</a>]
+*<a href="https://www.nature.com/articles/s41540-024-00365-1" target="_blank">npj Systems Biology and Applications (2024)</a>.*
+[<a href="{{base.url}}/files/Chou_2024_1.pdf" target="_blank">PDF</a>] 
+[<a href="{{base.url}}/files/Chou_2024_1.bib" target="_blank">BibTeX</a>] 
+[<a href="https://pubmed.ncbi.nlm.nih.gov/38678051/" target="_blank">PubMed</a>]
 [<a href="https://rtchou.github.io/malaria-antigen-identification-pf/" target="_blank">Source Code</a>]
+[<a href="https://www.umiacs.umd.edu/about-us/news/using-machine-learning-develop-more-effective-malaria-vaccine" target="_blank">UMIACS News</a>]
+
+1. *Application of advanced machine learning strategies for biomedical research.* <br/>
+**R. T. Chou** <br/>
+*<a href="https://doi.org/10.13016/pepg-seog" target="_blank">Digital Repository at the University of Maryland (DRUM) (2023)</a>.*
+[<a href="{{base.url}}/files/Chou_dissertation_2023.pdf" target="_blank">PDF</a>] 
+[<a href="{{base.url}}/files/Chou_dissertation_2023.bib" target="_blank">BibTeX</a>] 
 
 1. *Engineered peptide-drug conjugate provides sustained protection of retinal ganglion cells with topical administration in rats.* <br/>
 H. T. Hsueh<sup>$\*$</sup>, **R. T. Chou**<sup>$\*$</sup> (co-first author), U. Rai, P. Kolodziejski, W. Liyanage, J. Pejavar, A. Mozzer, C. Davison, M. B. Appell, Y. C. Kim, K. T. Leo, H. Kwon, M. Sista, N. M. Anders, A. Hemingway, S. V. K. Rompicharla, I. Pitha, D. J. Zack, J. Hanes, M. P. Cummings, L. M. Ensign <br/>

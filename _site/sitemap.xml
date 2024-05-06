@@ -25,6 +25,14 @@
 <loc>http://localhost:4000/terms/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/files/Chou_2024_1.pdf</loc>
+<lastmod>2024-05-05T23:50:28-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/Chou_dissertation_2023.pdf</loc>
+<lastmod>2024-05-06T00:00:50-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/files/Hsueh_2021.pdf</loc>
 <lastmod>2024-04-07T19:16:13-04:00</lastmod>
 </url>
