@@ -26,6 +26,7 @@ You can also find a list of my published work on <a href="https://scholar.google
 [<a href="https://pubmed.ncbi.nlm.nih.gov/38678051/" target="_blank">PubMed</a>]
 [<a href="https://rtchou.github.io/malaria-antigen-identification-pf/" target="_blank">Source Code</a>]
 [<a href="https://www.umiacs.umd.edu/about-us/news/using-machine-learning-develop-more-effective-malaria-vaccine" target="_blank">UMIACS News</a>]
+[<a href="https://today.umd.edu/to-hunt-for-better-malaria-vaccines-researchers-turn-to-machine-learning" target="_blank">Maryland Today</a>]
 
 1. *Application of advanced machine learning strategies for biomedical research.* <br/>
 **R. T. Chou** <br/>
